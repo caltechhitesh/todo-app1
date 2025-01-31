@@ -1,1 +1,3 @@
-echo "2. Delete completed tasks" 
+echo "2. Delete completed tasks"
+
+echo "1. Buy Groceries"
